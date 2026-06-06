@@ -1,0 +1,43 @@
+name: Update Asana Task Stats
+
+on:
+  schedule:
+    # Runs every 6 hours. Adjust to taste (crontab.guru is helpful).
+    - cron: '0 */6 * * *'
+  workflow_dispatch: # allow manual trigger from the Actions tab
+
+permissions:
+  contents: write  # needed to commit README changes
+
+jobs:
+  update-stats:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Fetch Asana stats and update README
+        env:
+          ASANA_PAT:            ${{ secrets.ASANA_PAT }}
+          ASANA_WORKSPACE_GID:  ${{ secrets.ASANA_WORKSPACE_GID }}
+          # Optional: set to your numeric user GID, or leave unset to use "me"
+          ASANA_USER_GID:       ${{ secrets.ASANA_USER_GID }}
+          # How many days back to count (change to 7 or 14 if you prefer)
+          DAYS: '30'
+        run: node scripts/fetch-asana-stats.js
+
+      - name: Commit and push if README changed
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name  "github-actions[bot]"
+          git diff --quiet && git diff --staged --quiet || (
+            git add README.md assets/ &&
+            git commit -m "chore: update Asana task stats [skip ci]" &&
+            git push
+          )
