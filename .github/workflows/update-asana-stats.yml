@@ -2,8 +2,8 @@ name: Update Asana Task Stats
 
 on:
   schedule:
-    # Runs nightly at midnight PST (08:00 UTC, or 07:00 UTC during PDT).
-    - cron: '0 8 * * *'
+    # Runs nightly at midnight Vancouver time (PDT = UTC-7).
+    - cron: '0 7 * * *'
   workflow_dispatch: # allow manual trigger from the Actions tab
 
 permissions:
