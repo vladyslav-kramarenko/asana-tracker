@@ -2,40 +2,40 @@
   <style>text { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; }</style>
   <rect width="744" height="262" rx="10" fill="#ffffff" stroke="#e5e7eb" stroke-width="1"/>
   <text x="372" y="20" text-anchor="middle" font-size="13" font-weight="700" fill="#111827">Asana · Tasks Closed per Day</text>
-  <text x="372" y="36" text-anchor="middle" font-size="11" fill="#9ca3af">2026-06-24  →  2026-07-23  ·  81 tasks closed</text>
+  <text x="372" y="36" text-anchor="middle" font-size="11" fill="#9ca3af">2026-06-25  →  2026-07-24  ·  86 tasks closed</text>
   <line x1="38" y1="204" x2="724" y2="204" stroke="#e5e7eb" stroke-width="1"/><text x="32" y="208" text-anchor="end" font-size="11" fill="#9ca3af">0</text>
   <line x1="38" y1="164" x2="724" y2="164" stroke="#e5e7eb" stroke-width="1"/><text x="32" y="168" text-anchor="end" font-size="11" fill="#9ca3af">3</text>
   <line x1="38" y1="124" x2="724" y2="124" stroke="#e5e7eb" stroke-width="1"/><text x="32" y="128" text-anchor="end" font-size="11" fill="#9ca3af">6</text>
   <line x1="38" y1="84" x2="724" y2="84" stroke="#e5e7eb" stroke-width="1"/><text x="32" y="88" text-anchor="end" font-size="11" fill="#9ca3af">9</text>
   <line x1="38" y1="44" x2="724" y2="44" stroke="#e5e7eb" stroke-width="1"/><text x="32" y="48" text-anchor="end" font-size="11" fill="#9ca3af">12</text>
-  <rect x="38" y="202" width="19" height="2" rx="3" fill="#6366f1" opacity="0.15"/><text x="47.5" y="218" text-anchor="end" font-size="10" fill="#9ca3af" transform="rotate(-40 47.5 218)">Jun 24</text>
-  <rect x="61" y="84" width="19" height="120" rx="3" fill="#6366f1" opacity="1"/><text x="70.5" y="79" text-anchor="middle" font-size="11" fill="#4f46e5" font-weight="600">9</text>
-  <rect x="84" y="164" width="19" height="40" rx="3" fill="#6366f1" opacity="1"/><text x="93.5" y="159" text-anchor="middle" font-size="11" fill="#4f46e5" font-weight="600">3</text>
-  <rect x="107" y="191" width="19" height="13" rx="3" fill="#6366f1" opacity="1"/>
-  <rect x="130" y="202" width="19" height="2" rx="3" fill="#6366f1" opacity="0.15"/>
-  <rect x="153" y="164" width="19" height="40" rx="3" fill="#6366f1" opacity="1"/><text x="162.5" y="159" text-anchor="middle" font-size="11" fill="#4f46e5" font-weight="600">3</text><text x="162.5" y="218" text-anchor="end" font-size="10" fill="#9ca3af" transform="rotate(-40 162.5 218)">Jun 29</text>
+  <rect x="38" y="84" width="19" height="120" rx="3" fill="#6366f1" opacity="1"/><text x="47.5" y="79" text-anchor="middle" font-size="11" fill="#4f46e5" font-weight="600">9</text><text x="47.5" y="218" text-anchor="end" font-size="10" fill="#9ca3af" transform="rotate(-40 47.5 218)">Jun 25</text>
+  <rect x="61" y="164" width="19" height="40" rx="3" fill="#6366f1" opacity="1"/><text x="70.5" y="159" text-anchor="middle" font-size="11" fill="#4f46e5" font-weight="600">3</text>
+  <rect x="84" y="191" width="19" height="13" rx="3" fill="#6366f1" opacity="1"/>
+  <rect x="107" y="202" width="19" height="2" rx="3" fill="#6366f1" opacity="0.15"/>
+  <rect x="130" y="164" width="19" height="40" rx="3" fill="#6366f1" opacity="1"/><text x="139.5" y="159" text-anchor="middle" font-size="11" fill="#4f46e5" font-weight="600">3</text>
+  <rect x="153" y="177" width="19" height="27" rx="3" fill="#6366f1" opacity="1"/><text x="162.5" y="172" text-anchor="middle" font-size="11" fill="#4f46e5" font-weight="600">2</text><text x="162.5" y="218" text-anchor="end" font-size="10" fill="#9ca3af" transform="rotate(-40 162.5 218)">Jun 30</text>
   <rect x="176" y="177" width="19" height="27" rx="3" fill="#6366f1" opacity="1"/><text x="185.5" y="172" text-anchor="middle" font-size="11" fill="#4f46e5" font-weight="600">2</text>
-  <rect x="199" y="177" width="19" height="27" rx="3" fill="#6366f1" opacity="1"/><text x="208.5" y="172" text-anchor="middle" font-size="11" fill="#4f46e5" font-weight="600">2</text>
-  <rect x="222" y="191" width="19" height="13" rx="3" fill="#6366f1" opacity="1"/>
-  <rect x="245" y="202" width="19" height="2" rx="3" fill="#6366f1" opacity="0.15"/>
-  <rect x="268" y="191" width="19" height="13" rx="3" fill="#6366f1" opacity="1"/><text x="277.5" y="218" text-anchor="end" font-size="10" fill="#9ca3af" transform="rotate(-40 277.5 218)">Jul 4</text>
-  <rect x="291" y="202" width="19" height="2" rx="3" fill="#6366f1" opacity="0.15"/>
-  <rect x="314" y="191" width="19" height="13" rx="3" fill="#6366f1" opacity="1"/>
-  <rect x="337" y="97" width="19" height="107" rx="3" fill="#6366f1" opacity="1"/><text x="346.5" y="92" text-anchor="middle" font-size="11" fill="#4f46e5" font-weight="600">8</text>
-  <rect x="360" y="177" width="19" height="27" rx="3" fill="#6366f1" opacity="1"/><text x="369.5" y="172" text-anchor="middle" font-size="11" fill="#4f46e5" font-weight="600">2</text>
-  <rect x="383" y="57" width="19" height="147" rx="3" fill="#6366f1" opacity="1"/><text x="392.5" y="52" text-anchor="middle" font-size="11" fill="#4f46e5" font-weight="600">11</text><text x="392.5" y="218" text-anchor="end" font-size="10" fill="#9ca3af" transform="rotate(-40 392.5 218)">Jul 9</text>
-  <rect x="406" y="164" width="19" height="40" rx="3" fill="#6366f1" opacity="1"/><text x="415.5" y="159" text-anchor="middle" font-size="11" fill="#4f46e5" font-weight="600">3</text>
+  <rect x="199" y="191" width="19" height="13" rx="3" fill="#6366f1" opacity="1"/>
+  <rect x="222" y="202" width="19" height="2" rx="3" fill="#6366f1" opacity="0.15"/>
+  <rect x="245" y="191" width="19" height="13" rx="3" fill="#6366f1" opacity="1"/>
+  <rect x="268" y="202" width="19" height="2" rx="3" fill="#6366f1" opacity="0.15"/><text x="277.5" y="218" text-anchor="end" font-size="10" fill="#9ca3af" transform="rotate(-40 277.5 218)">Jul 5</text>
+  <rect x="291" y="191" width="19" height="13" rx="3" fill="#6366f1" opacity="1"/>
+  <rect x="314" y="97" width="19" height="107" rx="3" fill="#6366f1" opacity="1"/><text x="323.5" y="92" text-anchor="middle" font-size="11" fill="#4f46e5" font-weight="600">8</text>
+  <rect x="337" y="177" width="19" height="27" rx="3" fill="#6366f1" opacity="1"/><text x="346.5" y="172" text-anchor="middle" font-size="11" fill="#4f46e5" font-weight="600">2</text>
+  <rect x="360" y="57" width="19" height="147" rx="3" fill="#6366f1" opacity="1"/><text x="369.5" y="52" text-anchor="middle" font-size="11" fill="#4f46e5" font-weight="600">11</text>
+  <rect x="383" y="164" width="19" height="40" rx="3" fill="#6366f1" opacity="1"/><text x="392.5" y="159" text-anchor="middle" font-size="11" fill="#4f46e5" font-weight="600">3</text><text x="392.5" y="218" text-anchor="end" font-size="10" fill="#9ca3af" transform="rotate(-40 392.5 218)">Jul 10</text>
+  <rect x="406" y="202" width="19" height="2" rx="3" fill="#6366f1" opacity="0.15"/>
   <rect x="429" y="202" width="19" height="2" rx="3" fill="#6366f1" opacity="0.15"/>
-  <rect x="452" y="202" width="19" height="2" rx="3" fill="#6366f1" opacity="0.15"/>
-  <rect x="475" y="137" width="19" height="67" rx="3" fill="#6366f1" opacity="1"/><text x="484.5" y="132" text-anchor="middle" font-size="11" fill="#4f46e5" font-weight="600">5</text>
-  <rect x="498" y="191" width="19" height="13" rx="3" fill="#6366f1" opacity="1"/><text x="507.5" y="218" text-anchor="end" font-size="10" fill="#9ca3af" transform="rotate(-40 507.5 218)">Jul 14</text>
-  <rect x="521" y="202" width="19" height="2" rx="3" fill="#6366f1" opacity="0.15"/>
-  <rect x="544" y="44" width="19" height="160" rx="3" fill="#6366f1" opacity="1"/><text x="553.5" y="39" text-anchor="middle" font-size="11" fill="#4f46e5" font-weight="600">12</text>
+  <rect x="452" y="137" width="19" height="67" rx="3" fill="#6366f1" opacity="1"/><text x="461.5" y="132" text-anchor="middle" font-size="11" fill="#4f46e5" font-weight="600">5</text>
+  <rect x="475" y="191" width="19" height="13" rx="3" fill="#6366f1" opacity="1"/>
+  <rect x="498" y="202" width="19" height="2" rx="3" fill="#6366f1" opacity="0.15"/><text x="507.5" y="218" text-anchor="end" font-size="10" fill="#9ca3af" transform="rotate(-40 507.5 218)">Jul 15</text>
+  <rect x="521" y="44" width="19" height="160" rx="3" fill="#6366f1" opacity="1"/><text x="530.5" y="39" text-anchor="middle" font-size="11" fill="#4f46e5" font-weight="600">12</text>
+  <rect x="544" y="177" width="19" height="27" rx="3" fill="#6366f1" opacity="1"/><text x="553.5" y="172" text-anchor="middle" font-size="11" fill="#4f46e5" font-weight="600">2</text>
   <rect x="567" y="177" width="19" height="27" rx="3" fill="#6366f1" opacity="1"/><text x="576.5" y="172" text-anchor="middle" font-size="11" fill="#4f46e5" font-weight="600">2</text>
-  <rect x="590" y="177" width="19" height="27" rx="3" fill="#6366f1" opacity="1"/><text x="599.5" y="172" text-anchor="middle" font-size="11" fill="#4f46e5" font-weight="600">2</text>
-  <rect x="613" y="151" width="19" height="53" rx="3" fill="#6366f1" opacity="1"/><text x="622.5" y="146" text-anchor="middle" font-size="11" fill="#4f46e5" font-weight="600">4</text><text x="622.5" y="218" text-anchor="end" font-size="10" fill="#9ca3af" transform="rotate(-40 622.5 218)">Jul 19</text>
-  <rect x="636" y="137" width="19" height="67" rx="3" fill="#6366f1" opacity="1"/><text x="645.5" y="132" text-anchor="middle" font-size="11" fill="#4f46e5" font-weight="600">5</text>
-  <rect x="659" y="164" width="19" height="40" rx="3" fill="#6366f1" opacity="1"/><text x="668.5" y="159" text-anchor="middle" font-size="11" fill="#4f46e5" font-weight="600">3</text>
-  <rect x="682" y="202" width="19" height="2" rx="3" fill="#6366f1" opacity="0.15"/>
-  <rect x="705" y="202" width="19" height="2" rx="3" fill="#6366f1" opacity="0.15"/><text x="714.5" y="218" text-anchor="end" font-size="10" fill="#9ca3af" transform="rotate(-40 714.5 218)">Jul 23</text>
+  <rect x="590" y="151" width="19" height="53" rx="3" fill="#6366f1" opacity="1"/><text x="599.5" y="146" text-anchor="middle" font-size="11" fill="#4f46e5" font-weight="600">4</text>
+  <rect x="613" y="137" width="19" height="67" rx="3" fill="#6366f1" opacity="1"/><text x="622.5" y="132" text-anchor="middle" font-size="11" fill="#4f46e5" font-weight="600">5</text><text x="622.5" y="218" text-anchor="end" font-size="10" fill="#9ca3af" transform="rotate(-40 622.5 218)">Jul 20</text>
+  <rect x="636" y="164" width="19" height="40" rx="3" fill="#6366f1" opacity="1"/><text x="645.5" y="159" text-anchor="middle" font-size="11" fill="#4f46e5" font-weight="600">3</text>
+  <rect x="659" y="202" width="19" height="2" rx="3" fill="#6366f1" opacity="0.15"/>
+  <rect x="682" y="137" width="19" height="67" rx="3" fill="#6366f1" opacity="1"/><text x="691.5" y="132" text-anchor="middle" font-size="11" fill="#4f46e5" font-weight="600">5</text>
+  <rect x="705" y="202" width="19" height="2" rx="3" fill="#6366f1" opacity="0.15"/><text x="714.5" y="218" text-anchor="end" font-size="10" fill="#9ca3af" transform="rotate(-40 714.5 218)">Jul 24</text>
 </svg>
