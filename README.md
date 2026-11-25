@@ -5,7 +5,7 @@ Generates a daily bar chart of closed Asana tasks and commits it to the repo nig
 <!-- ASANA_STATS_START -->
 ![Asana Tasks per Day](assets/asana-chart.svg)
 
-_Updated Tue, 24 Nov 2026 18:42:10 GMT_
+_Updated Wed, 25 Nov 2026 17:51:02 GMT_
 <!-- ASANA_STATS_END -->
 
 ## How it works
